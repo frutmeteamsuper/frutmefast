@@ -104,7 +104,7 @@ getDirections(place:Feature){
       'slick-custom', 
       'homescreen-popup', 
       'theme-setting', 
-      'script',
+      'script'
     )
     .then(data => {
       console.log('script loaded ', data);
